@@ -10,7 +10,7 @@ The Bijoy Keyboard Layout, developed by Mustafa Jabbar, is a popular choice for 
 ---
 
 ## 1. Prerequisites
-- **Ubuntu Version**: 20.04 LTS or later (tested on 22.04 and 24.04).
+- **Ubuntu Version**: 20.04 LTS or later (tested on 22.04 and 25.04).
 - **Internet Connection**: Required for downloading files and packages.
 - **Administrative Privileges**: Sudo access for installing packages and modifying system files.
 - **Required Files**: Download `bn-bijoyClassic.mim`, `bn-bijoyClassic.png`, `bn-bijoyUnicode.mim`, and `bn-bijoyUnicode.png` from [this GitHub repository](https://github.com/asikdial-tech/BijoyLinux) or the [releases page](https://github.com/your-username/bijoy-ubuntu-setup/releases).
@@ -32,6 +32,9 @@ The Bijoy Keyboard Layout, developed by Mustafa Jabbar, is a popular choice for 
    wget https://github.com/asikdial-tech/BijoyLinux/archive/refs/heads/main.zip
    unzip main.zip
    cd BijoyLinux-main
+      unzip Bijoy/Linux.zip
+      cd Bijoy/Linux
+
    ```
 2. Move the files to the appropriate system directories:
    ```bash
