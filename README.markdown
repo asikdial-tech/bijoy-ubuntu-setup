@@ -32,8 +32,8 @@ The Bijoy Keyboard Layout, developed by Mustafa Jabbar, is a popular choice for 
    wget https://github.com/asikdial-tech/BijoyLinux/archive/refs/heads/main.zip
    unzip main.zip
    cd BijoyLinux-main
-      unzip Bijoy/Linux.zip
-      cd Bijoy/Linux
+   unzip Bijoy/Linux.zip
+   cd Bijoy/Linux
 
    ```
 2. Move the files to the appropriate system directories:
